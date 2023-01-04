@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 ## Overview
-This venture’s objective is to build on a pre-existing knowledge of Databases helping a large company prepare for their “Silver Tsunami”, a cycle-out of retirement eligible employees. The company, Pewlett Hackard, more familiar with Excel’s VBA will be introduced to PostGreSQL, a more suitable and up-to-date relational database that uses  the programming language , SQL, to explore and manipulate data. Working with 6 .csv files of employee data, Pewlett Hackard will apply their knowledge of DataFrames and tabular data to build on their skills or data-modeling, -engineering,  and -analysis. 
+Pewlett-Hackard is a large company preparing for their “Silver Tsunami”, a cycle-out of retirement eligible employees. Pewlett-Hackard more familiar with Excel’s VBA will be aquainted with PostGreSQL, a more suitable and up-to-date relational database that uses SQL to query, construct, and catalogue data. Working with 6 .csv files of employee data, data-modeling, -engineering, and -analysis will be applied to Excel's dataframes and tabular data to diagram and illustrate the workforce/staffing requirements for the Company's mentorship initiaitive for position transitions. 
 
 #### Data environment: 
 - PgAdmin 6.10
